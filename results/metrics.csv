@@ -1,2 +1,2 @@
-precision_at_3
-0.286
+precision_at_3,recall_at_3,ndcg_at_3
+0.2789,0.8367,0.7194
